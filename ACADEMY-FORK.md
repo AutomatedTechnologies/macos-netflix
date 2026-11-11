@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** macos-netflix — https://github.com/jellybeansoup/macos-netflix
-- **Original authors:** Copyright (c) 2018 Daniel Farrelly. Released under the BSD license. All rights reserved.; * Redistributions of source code must retain the above copyright notice, this; * Redistributions in binary form must reproduce the above copyright notice,
+- **Original authors:** Copyright (c) 2018 Daniel Farrelly. Released under the BSD license. All rights reserved.
 - **License:** BSD-2-Clause (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 88d5f88d010ec96cdfe7f5e98934ea4dab382157 (upstream HEAD of `main` at acquisition)
 - **Date acquired:** 2026-11-10
